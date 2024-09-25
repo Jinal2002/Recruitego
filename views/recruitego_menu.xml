@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<data>
+
+    <menuitem
+   		id="menu_job_opening_main"
+   		name="Request Resources"
+    	sequence="4"/>
+		
+    <menuitem
+   		id="menu_job_opening"
+   		name="Job Opening Post"
+   		parent="menu_job_opening_main"
+    	action="action_job_hire"
+    	sequence="4"/>
+
+	</data>	
+</odoo>

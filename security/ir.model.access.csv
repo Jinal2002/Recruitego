@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+recruitego.access_job_hire,access_job_hire,recruitego.model_job_hire,,1,1,1,1
+recruitego.access_job_refuse_wizard,access_job_refuse_wizard,recruitego.model_job_refuse_wizard,base.group_user,1,1,1,1
